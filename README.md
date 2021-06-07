@@ -1,4 +1,6 @@
-# FB-HACK#
+# FB-HACK✔️
+
+# Credit Me 😍
 
 #😍Command 😍
 
@@ -16,5 +18,9 @@ cd FB-HACK
 
 python2 FB.py
 
-User:(ROCK)
-Pass:(17)
+#User:(ROCK)
+#Pass:(17)
+
+
+# Thank You All 😍
+
